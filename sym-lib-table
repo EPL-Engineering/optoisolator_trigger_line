@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NTE3221")(type "KiCad")(uri "${KIPRJMOD}/components/NTE3221/NTE3221.kicad_sym")(options "")(descr ""))
+)

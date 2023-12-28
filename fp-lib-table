@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NTE3221")(type "KiCad")(uri "${KIPRJMOD}/components/NTE3221")(options "")(descr ""))
+)
