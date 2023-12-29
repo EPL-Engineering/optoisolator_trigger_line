@@ -1,0 +1,105 @@
+
+(footprint 53048-0910 (layer F.Cu) (tedit 658F0816)
+  (descr "<b>HEADER</b>")
+  (fp_text reference REF** (at -3.81 -2.0955 0) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (fp_text value 53048-0910 (at -2.286 5.3086 0) (layer F.Fab)
+    (effects (font (size 0.64 0.64) (thickness 0.15)))
+  )
+  (pad 1 thru_hole oval (at -5.0 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (pad 2 thru_hole oval (at -3.75 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (pad 3 thru_hole oval (at -2.5 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (pad 4 thru_hole oval (at -1.25 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (pad 5 thru_hole oval (at 0.0 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (pad 6 thru_hole oval (at 1.25 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (pad 7 thru_hole oval (at 2.5 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (pad 8 thru_hole oval (at 3.75 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (pad 9 thru_hole oval (at 5.0 0.0) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
+  (fp_line (start -6.44 -1.05) (end 6.44 -1.05) (layer F.Fab) (width 0.127))
+  (fp_line (start 6.44 -1.05) (end 6.44 4.45) (layer F.SilkS) (width 0.127))
+  (fp_line (start 6.44 4.45) (end -6.44 4.45) (layer F.SilkS) (width 0.127))
+  (fp_line (start -6.44 4.45) (end -6.44 -1.05) (layer F.SilkS) (width 0.127))
+  (fp_line (start -5.69 4.45) (end -5.69 3.25) (layer F.Fab) (width 0.127))
+  (fp_line (start -5.69 3.25) (end 5.69 3.25) (layer F.Fab) (width 0.127))
+  (fp_line (start 5.69 3.25) (end 5.69 4.45) (layer F.Fab) (width 0.127))
+  (fp_poly
+    (pts
+      (xy -5.127 3.3)
+      (xy -4.873 3.3)
+      (xy -4.873 4.0675)
+      (xy -5.127 4.0675)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -3.877 3.3)
+      (xy -3.623 3.3)
+      (xy -3.623 4.0675)
+      (xy -3.877 4.0675)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -2.627 3.3)
+      (xy -2.373 3.3)
+      (xy -2.373 4.0674)
+      (xy -2.627 4.0674)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -1.377 3.3)
+      (xy -1.123 3.3)
+      (xy -1.123 4.0674)
+      (xy -1.377 4.0674)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.127 3.3)
+      (xy 0.127 3.3)
+      (xy 0.127 4.0674)
+      (xy -0.127 4.0674)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 1.123 3.3)
+      (xy 1.377 3.3)
+      (xy 1.377 4.0674)
+      (xy 1.123 4.0674)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 2.373 3.3)
+      (xy 2.627 3.3)
+      (xy 2.627 4.0674)
+      (xy 2.373 4.0674)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 3.623 3.3)
+      (xy 3.877 3.3)
+      (xy 3.877 4.0674)
+      (xy 3.623 4.0674)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 4.873 3.3)
+      (xy 5.127 3.3)
+      (xy 5.127 4.0674)
+      (xy 4.873 4.0674)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -5.334 1.397)
+      (xy -4.826 1.397)
+      (xy -5.08 1.778)
+    ) (layer F.SilkS) (width 0.127)
+  )
+)
